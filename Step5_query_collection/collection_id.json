@@ -1,0 +1,29 @@
+{
+  "collection_id" : "38938952-3018-4190-9354-6582a0fc7cfe",
+  "name" : "my-first-collection",
+  "configuration_id" : "42e016bb-e6b6-4c57-9638-766fce8067ba",
+  "language" : "en",
+  "status" : "active",
+  "description" : "exploring collections",
+  "created" : "2018-05-13T18:57:51.322Z",
+  "updated" : "2018-05-13T18:57:51.322Z",
+  "document_counts" : {
+    "available" : 4,
+    "processing" : 0,
+    "failed" : 0
+  },
+  "disk_usage" : {
+    "used_bytes" : 107429
+  },
+  "training_status" : {
+    "data_updated" : "",
+    "total_examples" : 0,
+    "sufficient_label_diversity" : false,
+    "processing" : false,
+    "minimum_examples_added" : false,
+    "successfully_trained" : "",
+    "available" : false,
+    "notices" : 0,
+    "minimum_queries_added" : false
+  }
+}
