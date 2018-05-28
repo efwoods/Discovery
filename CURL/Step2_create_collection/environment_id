@@ -1,0 +1,23 @@
+{
+  "environment_id" : "622177b8-ffe3-4fdd-b1ab-75d6e46a3d25",
+  "name" : "my-first-environment",
+  "description" : "exploring environments",
+  "created" : "2018-05-13T17:32:15.319Z",
+  "updated" : "2018-05-13T17:32:15.319Z",
+  "status" : "active",
+  "read_only" : false,
+  "index_capacity" : {
+    "documents" : {
+      "available" : 0,
+      "maximum_allowed" : 2000
+    },
+    "disk_usage" : {
+      "used_bytes" : 0,
+      "maximum_allowed_bytes" : 200000000
+    },
+    "collections" : {
+      "available" : 0,
+      "maximum_allowed" : 2
+    }
+  }
+}
